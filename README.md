@@ -3,8 +3,6 @@
 A simple portfolio to demonstrate my work as a developer built with React. 
 
 
-[![react portfolio] (https://teboho-nthako-portfolio.netlify.app/)
-
 ### Features
 
 - Fully Responsive
